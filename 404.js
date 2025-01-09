@@ -13,7 +13,7 @@ window.onload = function(){
         }
     })
 };
-var text = "Hi there!<br> I'm Young Ed,<br> a junior developer located in United States.<br> Let's build your website together!";
+var text = "Hi there!<br> I'm Young Ed,<br>We're excited to have you here. If you have an idea in mind,<br>I’ve got the code to bring it to life.<br> Let’s collaborate and build something amazing together!";
 var punctSlowDownArr = ["!", ".", "?"];
 var newLine = "<br>";
 
